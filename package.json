@@ -1,0 +1,14 @@
+{
+  "name": "olsen",
+  "version": "1.0.0",
+  "description": "School Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan G",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
